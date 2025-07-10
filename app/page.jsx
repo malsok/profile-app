@@ -9,8 +9,8 @@ export default function page() {
         <div className='col-span-10'>
           <div className='font-bold text-2xl'>Hi, I'm Ryan Hermawan 👋</div>
           <div className='text-sm font-normal'>
-            Software Engineer. I love building things and helping people. Very
-            active on Instagram.
+            Im Software Engineer. I love building things and helping people. Very
+            active on Instagram. from Indonesia.
           </div>
         </div>
 
