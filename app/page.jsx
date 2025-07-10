@@ -44,6 +44,14 @@ export default function page() {
         </div>
       </div>
 
+      <div>
+        <div className="font-bold">Account Game</div>
+        <div className="text-xs">
+          <div className="font-bold">1.mobile legends id : 12345678</div>
+          <div className="font-bold">2.free fire : 12345678</div>
+          <div className="font-bold">3.roblox : 12345678</div>
+        </div>
+      </div>
       {/* Section 3 */}
       <div>
         <div className="font-bold">Social Media</div>
