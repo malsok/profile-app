@@ -48,6 +48,7 @@ export default function page() {
       <div>
         <div className='font-bold'>Social Media</div>
         <Link
+          target='_blank'
           href='https://www.instagram.com/heryanwan'
           className='text-xs underline text-blue-500'
         >
