@@ -10,7 +10,7 @@ export default function page() {
           <div className="font-bold text-2xl">Hi, I'm Ryan Hermawan 👋</div>
           <div className="text-sm font-normal">
             Im Software Engineer. I love building things and helping people.
-            Very active on Instagram. from Indonesia.
+            Very active on Instagram. from Indonesiaaa.s
           </div>
         </div>
 
@@ -47,9 +47,9 @@ export default function page() {
       <div>
         <div className="font-bold">Account Game</div>
         <div className="text-xs">
-          <div className="font-bold">1.mobile legends id : 12345678</div>
-          <div className="font-bold">2.free fire : 12345678</div>
-          <div className="font-bold">3.roblox : 12345678</div>
+          <div className="">1.mobile legends id : 12345678</div>
+          <div className="">2.free fire : 12345678</div>
+          <div className="">3.roblox : 12345678</div>
         </div>
       </div>
       {/* Section 3 */}
@@ -62,6 +62,15 @@ export default function page() {
         >
           Instagram
         </Link>
+      </div>
+
+      <div className="">
+        <div className="font-bold capitalize">motivasi</div>
+        <div className="text-xs">
+          <div className="">1.percaya diri</div>
+          <div className="">2.jangan takut gagal</div>
+          <div className="">3.tetap fokus dan kosisten</div>
+        </div>
       </div>
     </div>
   );
